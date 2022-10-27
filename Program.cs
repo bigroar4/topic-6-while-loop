@@ -147,6 +147,9 @@ namespace topic_6_while_loop
                 Console.WriteLine("part 4 ");
                 int num1, num2;
                 Console.WriteLine("you are going to give me two numbers and i am going to give you 25 random numbers in between");
+                Console.WriteLine("Give me the first number to make the max for the game ");
+                num1 = Convert.ToInt32(Console.ReadLine());
+
             }
         }
     }
